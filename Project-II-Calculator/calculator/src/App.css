@@ -1,0 +1,8 @@
+.container {
+    width: 30%;
+    margin: 50px auto;
+    border: 1px solid lightgray;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 62.5%;
+}
